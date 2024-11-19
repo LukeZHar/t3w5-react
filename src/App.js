@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 const foods = ['hamburger', 'pizza', 'ramen', 'sushi', 'hotdog', 'ice cream'];
